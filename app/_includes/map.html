@@ -19,7 +19,7 @@
             locationButton.textContent = "Locate around me!";
             map.controls[google.maps.ControlPosition.TOP_CENTER].push(locationButton);
             locationButton.addEventListener("click", () => {
-                
+
                 if (navigator.geolocation) {
                     locationButton.textContent = 'Locating...';
                     navigator.geolocation.getCurrentPosition(
@@ -130,7 +130,7 @@
 </script>
 
 <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLgxtP80D9RxICUGicbeZf29_qUii9_sk&callback=initMap&libraries=&v=weekly"
+    src="https://maps.googleapis.com/maps/api/js?key=xxxxx&callback=initMap&libraries=&v=weekly"
     defer></script>
 <div class="h-72 md:h-96 lg:h-full">
     <div id='map' class="h-full w-full"></div>
