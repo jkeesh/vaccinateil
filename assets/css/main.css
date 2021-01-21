@@ -1,0 +1,79 @@
+:root {
+  font-family: "Inter", sans-serif;
+}
+@supports (font-variation-settings: normal) {
+  :root {
+    font-family: "Inter var", sans-serif;
+  }
+}
+
+.main-content p {
+  margin-bottom: 12px;
+}
+
+a {
+  color: #047857;
+}
+
+.airtable-embed {
+  height: 85vh;
+}
+
+.autoComplete_wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+#autoComplete {
+  width: 100%;
+  padding: 4px 8px;
+}
+
+#autoComplete_list {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  margin: 0 5px;
+  border-radius: 0 0 5px 5px;
+  background-color: #fff;
+  box-shadow: 0 3px 6px rgba(149, 157, 165, 0.15);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-primary);
+  z-index: var(--z-index-results);
+  outline: 0;
+}
+
+.autoComplete_result {
+  padding: 2px 5px;
+  list-style: none;
+  text-align: left;
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #777;
+  cursor: pointer;
+}
+.autoComplete_result:hover {
+  background: #ddd;
+}
+
+.autoComplete_highlighted {
+  color: #000;
+}
+
+.autoComplete_selected {
+  cursor: pointer;
+  background-color: var(--color-accent-bg);
+}
+
+.mapInfo h1 {
+  font-size: 2em;
+}
+
+.mapInfo .supersite-tag {
+  color: #007fff;
+}
