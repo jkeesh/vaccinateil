@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: VaccinateIL
-email: media@vaccinateca.com
+email: hello@vaccinateil.com
 description: >- # this means to ignore newlines until "baseurl:"
   Publishing up-to-date COVID-19 vaccine availability at hospitals and pharmacies across Illinois.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vaccinateil.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ca_covid
-github_username: CAVaccineInventory
+twitter_username: VaccinateIL
+github_username: jkeesh
 
 # Uncomment this when the site is ready to receive traffic:
-google_analytics_id: G-C1C9341MGL
+google_analytics_id: G-M9PVJZL9HH
 
 # Build settings
 plugins:
@@ -38,12 +38,12 @@ plugins:
 tagline: COVID-19 Vaccine Availability in Illinois
 twitter:
   card: summary_large_image
-  username: ca_covid
+  username: VaccinateIL
 
 social:
   links:
-    - https://twitter.com/ca_covid
-    - https://github.com/CAVaccineInventory
+    - https://twitter.com/VaccinateIL
+    - https://github.com/jkeesh/vaccinateil
 
 
 # Image used by jekyll-seo-tag plugin in the JSON-LD tag.
