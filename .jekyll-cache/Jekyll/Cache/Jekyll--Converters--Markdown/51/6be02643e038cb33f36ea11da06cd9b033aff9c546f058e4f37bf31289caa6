@@ -1,0 +1,19 @@
+I"ç<p>The state of California has a vaccine strategy, but has delegated prioritization and administration to each county. Decisions as to which patients to vaccinate and in what fashion are ultimately up to medical providers.</p>
+
+<p>We have collected the <strong>most recent county-level information</strong> below. Broadly, we think that if the information we have on file from a county disagrees with a medical provider in it, the one most likely to be right is the one who could (or could not) put a shot in someoneâ€™s arm.</p>
+
+<p>Some counties have set up scheduling systems or have advice; please check your county below.</p>
+
+<!--
+<div class="autoComplete_wrapper">
+  
+  
+  
+  <input type="text" id="autoComplete" placeholder="Search by county..." class="px-4 py-2 border focus:ring-gray-500 focus:border-gray-600 border-gray-300 hover:border-gray-400 rounded-md focus:outline-none text-gray-600 mb-2" autofocus data-collection="Del Norte, Glenn, Humboldt, Lake, Lassen, Mendocino, Modoc, Shasta, Siskiyou, Tehama, Trinity, Alameda, Contra Costa, Marin, Monterey, Napa, San Francisco, San Mateo, Santa Clara, Santa Cruz, Solano, Sonoma, Alpine, Amador, Butte, Colusa, El Dorado, Nevada, Placer, Plumas, Sacramento, Sierra, Sutter, Yolo, Yuba, Calaveras, Fresno, Kern, Kings, Madera, Mariposa, Merced, San Benito, San Joaquin, Stanislaus, Tulare, Tuolumne, Imperial, Inyo, Los Angeles, Mono, Orange, Riverside, San Bernardino, San Diego, San Luis Obispo, Santa Barbara, Ventura" />
+</div>
+-->
+
+<!--<iframe class="airtable-embed margin-top--l" src="https://airtable.com/embed/shrCqe8cuKc52Bqgb?backgroundColor=grayLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="98%" style="background: transparent; border: 1px solid #ccc;"></iframe>-->
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrtbY8C0cUGwdAuV?backgroundColor=grayLight&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+:ET
