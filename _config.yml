@@ -34,6 +34,8 @@ google_analytics_id_illinois: G-M9PVJZL9HH
 plugins:
   - jekyll-seo-tag
 
+permalink: pretty
+
 ## Social media stuff supported by jekyll-seo-tag
 tagline: COVID-19 Vaccine Availability in Illinois
 twitter:

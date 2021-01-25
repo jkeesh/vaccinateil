@@ -2,7 +2,7 @@
 layout: default
 title: County Policies
 permalink: /county
-add_to_nav: true
+add_to_nav: false
 order: 3
 ---
 
