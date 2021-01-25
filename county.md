@@ -1,7 +1,7 @@
 ---
 layout: default
 title: County Policies
-add_to_nav: false
+add_to_nav: true
 order: 3
 ---
 
