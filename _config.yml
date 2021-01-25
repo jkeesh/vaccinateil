@@ -28,7 +28,7 @@ twitter_username: VaccinateIL
 github_username: jkeesh
 
 # Uncomment this when the site is ready to receive traffic:
-google_analytics_id: G-M9PVJZL9HH
+google_analytics_id_illinois: G-M9PVJZL9HH
 
 # Build settings
 plugins:
